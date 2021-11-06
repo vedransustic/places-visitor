@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Users = () => {
+const NewPlaces = () => {
     return (
         <div>
-           These are users!
+            New Places
         </div>
     );
 };
 
-export default Users;
+export default NewPlaces;

@@ -1,11 +1,11 @@
 import React from 'react';
 
-const NewStories = () => {
+const Place = () => {
     return (
         <div>
-            New Places
+            
         </div>
     );
 };
 
-export default NewStories;
+export default Place;
