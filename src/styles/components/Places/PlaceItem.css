@@ -36,7 +36,7 @@
 }
 
 .place-item__modal-content {
-    padding: 0;
+    padding: 4px;
 }
 
 .place-item__modal-actions {
@@ -46,6 +46,11 @@
 .place-item__actions button,
 .place-item__actions a {
     margin: 0.5rem;
+}
+
+.map-container{
+    height: 30rem;
+    width: 100%;
 }
 
 @media (min-width: 768px) {
